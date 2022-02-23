@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5367864.css",
+    "main.js": "/static/js/main.05e9ec54.js",
+    "static/media/me2.png": "/static/media/me2.9131b10ed132bd356ba6.png",
+    "static/media/Eevee.glb": "/static/media/Eevee.7a82e828d4020ae9bc7a.glb",
+    "index.html": "/index.html",
+    "main.a5367864.css.map": "/static/css/main.a5367864.css.map",
+    "main.05e9ec54.js.map": "/static/js/main.05e9ec54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5367864.css",
+    "static/js/main.05e9ec54.js"
+  ]
+}
